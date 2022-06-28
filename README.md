@@ -2,5 +2,5 @@
 Qt Creator Applications with Qml
 
 Button_1
+![resim](https://user-images.githubusercontent.com/59085587/176126033-bcd561a1-4380-4576-882b-342b99483d7e.png)
 
-![button1](https://user-images.githubusercontent.com/59085587/175764703-e4427047-e5a6-4edb-96c1-22751d16a1f6.png)
