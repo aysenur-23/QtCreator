@@ -17,6 +17,18 @@ GridView_1
 
 ![resim](https://user-images.githubusercontent.com/59085587/176127202-340783d1-d388-4b2a-a73e-63180647bdb8.png)
 
+TapBar
+
+![resim](https://user-images.githubusercontent.com/59085587/176916220-fb69d9dc-1954-4cc9-8092-eeb66ebf849a.png)
+
+ToolBar_0
+
+![resim](https://user-images.githubusercontent.com/59085587/176916380-231f9847-c9e5-45d3-9ef8-77c6c4972d33.png)
+
+ToolBar_1
+
+![resim](https://user-images.githubusercontent.com/59085587/176916724-fd6230fe-78a5-4bf4-b5bf-64c4dd0a4196.png)
+
 Repeater
 
 ![resim](https://user-images.githubusercontent.com/59085587/176127362-701863ab-6968-4621-9aa2-a7573070e736.png)
