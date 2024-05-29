@@ -1,3 +1,7 @@
+# Qt Design
+Qt Design'da oluşturulan bir arayüzü python'a dönüştürmek için aşağıdaki kod kullanılabilir
+python -m PyQt5.uic.pyuic -x dosya_adi.ui -o python_adi.py
+
 # QtCreator
 Qt Creator Applications with Qml
 
